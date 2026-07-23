@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Project</title>
-    <link>/posts/</link>
-    <description>Recent content from My New Hugo Project</description>
+    <title>Posts on 楠梦幽的博客仓库</title>
+    <link>https://nanmengyou711.github.io/posts/</link>
+    <description>Recent content from 楠梦幽的博客仓库</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     
@@ -15,7 +15,7 @@
     <lastBuildDate></lastBuildDate>
     
     
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="https://nanmengyou711.github.io/posts/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     

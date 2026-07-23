@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Project</title>
-    <link>/categories/</link>
-    <description>Recent content from My New Hugo Project</description>
+    <title>Categories on 楠梦幽的博客仓库</title>
+    <link>https://nanmengyou711.github.io/categories/</link>
+    <description>Recent content from 楠梦幽的博客仓库</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     
@@ -13,7 +13,7 @@
     <copyright>All articles on this blog are licensed under the BY-NC-SA license agreement unless otherwise stated. Please indicate the source when reprinting!</copyright>
     
     
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="https://nanmengyou711.github.io/categories/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
