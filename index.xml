@@ -12,12 +12,44 @@
     
     <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
     
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 08:42:15 +0800</lastBuildDate>
     
     
     <atom:link href="https://nanmengyou711.github.io/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
+    
+    
+
+    <item>
+      <title>My First Blog</title>
+      <link>https://nanmengyou711.github.io/posts/my-first-blog/</link>
+      <pubDate>Fri, 24 Jul 2026 08:42:15 &#43;0800</pubDate>
+      <author>2052961486@qq.com (Nanmengyou711)</author>
+      <guid>https://nanmengyou711.github.io/posts/my-first-blog/</guid>
+      <description>
+        <![CDATA[<h1>My First Blog</h1><p>作者：Nanmengyou711（2052961486@qq.com）</p>
+        
+          <p>欢迎来到我的博客！这是我的第一篇博文。</p>
+<h2 id="为什么写博客">
+<a class="header-anchor" href="#%e4%b8%ba%e4%bb%80%e4%b9%88%e5%86%99%e5%8d%9a%e5%ae%a2"></a>
+为什么写博客？
+</h2><p>写博客可以帮助我：</p>
+<ul>
+<li>记录学习过程</li>
+<li>分享技术经验</li>
+<li>锻炼写作能力</li>
+</ul>
+<h2 id="技术栈">
+<a class="header-anchor" href="#%e6%8a%80%e6%9c%af%e6%a0%88"></a>
+技术栈
+</h2><p>这个博客使用 Hugo 构建，部署在 GitHub Pages 上。</p>
+<p>感谢阅读！🎉</p>
+        
+        <hr><p>本文2026-07-24首发于<a href='https://nanmengyou711.github.io/'>楠梦幽的博客仓库</a>，最后修改于2026-07-24</p>]]>
+      </description>
+      
+    </item>
     
   </channel>
 </rss>
